@@ -1,9 +1,10 @@
 # dsw2025ej1
-Desarrollo de Software 2025 - Ejercicio N° 1 - El Zoológico
-Se trata de un zoológico que solo cuenta con una clase de animales, 
-los mamíferos. Cuando un nuevo animal llega al zoológico, se completa 
-una ficha con sus datos (nombre, especie, edad, peso) y el sector donde 
-será alojado. 
+#Desarrollo de Software 2025 
+##Ejercicio N° 1 - El Zoológico
+  Se trata de un zoológico que solo cuenta con una clase de animales, 
+  los mamíferos. Cuando un nuevo animal llega al zoológico, se completa 
+  una ficha con sus datos (nombre, especie, edad, peso) y el sector donde 
+  será alojado. 
 Para organizar mejor la población, se divide a los mamíferos en dos 
 tipos según su alimentación, carnívoros y herbívoros, porque son los 
 únicos pobladores del zoológico. Esto, además, ayuda a la administración 
